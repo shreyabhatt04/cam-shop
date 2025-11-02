@@ -62,6 +62,3 @@ mini-project-2/
 ## 📄 License
 
 This project is for educational and personal use only.
-
-
-Let me know if you’d like to combine this with other mini projects or convert it into a React component for a larger app.
